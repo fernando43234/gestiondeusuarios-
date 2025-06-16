@@ -8,7 +8,6 @@ Este es un *Sistema Web Básico* que incluye:
 ✅ Login de usuarios  
 ✅ Control de permisos (roles: Admin / Usuario)  
 ✅ Dashboard amigable 🎛️  
-✅ CRUD completo de productos 🍔📦  
 ✅ Despliegue de página estática en GitHub Pages 🖥️✨  
 
 
