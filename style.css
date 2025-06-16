@@ -22,7 +22,7 @@ input {
 button {
   padding: 10px;
   background-color: #1d72b8;
-  color: white;
+  color: red;
   border: none;
   cursor: pointer;
 }
