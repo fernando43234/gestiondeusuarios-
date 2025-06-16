@@ -21,12 +21,12 @@ input {
 
 button {
   padding: 10px;
-  background-color: #070b0e;
+  background-color: red;
   color: #f7f7f7;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0b48fe;
+  background-color: blanco;
 }
